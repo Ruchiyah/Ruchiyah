@@ -271,22 +271,28 @@ A full-stack solution connecting a Spring Boot REST API with React and MongoDB.
 
 ---
 
-# 🎮 GitHub playground
+# 🧪 My Data Science Lab
 
 <div align="center">
 
-### 🚀 Contribution Space Shooter
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="520" alt="Animated developer welcome">
 
-Turn your contribution history into an animated arcade-style space shooter. The project generates the animation through GitHub Actions, so this can become a genuinely **live part of your own repository** after setup. citeturn472127search0
+### Turning curiosity into experiments 🔬
 
-<a href="https://github.com/czl9707/gh-space-shooter"><img src="https://img.shields.io/badge/Explore-gh--space--shooter-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore gh-space-shooter"></a>
+<img src="https://img.shields.io/badge/01-Ask%20a%20good%20question-0F766E?style=for-the-badge" alt="Ask a good question">
+<img src="https://img.shields.io/badge/02-Explore%20the%20data-2563EB?style=for-the-badge" alt="Explore the data">
+<img src="https://img.shields.io/badge/03-Model%20%26%20evaluate-7C3AED?style=for-the-badge" alt="Model and evaluate">
+<img src="https://img.shields.io/badge/04-Build%20something%20useful-EA580C?style=for-the-badge" alt="Build something useful">
 
 <br><br>
 
 <details>
-<summary><b>▶ How this fits my profile</b></summary>
+<summary><b>▶ What I'm exploring right now</b></summary>
 
-It would turn my contribution history into a small visual game instead of another static statistics card — keeping the profile technical, playful and career-focused.
+**Data Science** → statistical reasoning, exploratory analysis & visualization  
+**Machine Learning** → predictive models, evaluation & practical experimentation  
+**AI** → understanding intelligent systems and how to apply them responsibly  
+**Data Engineering** → reliable data pipelines, databases & scalable foundations
 
 </details>
 
