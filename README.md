@@ -40,7 +40,16 @@ I'm not trying to collect technologies just to make a longer list.
 
 <td width="48%" valign="top">
 
-<img src="https://github.com/VehanRajintha/VehanRajintha/raw/main/Skills_Animation_Dark.gif" width="100%" alt="Animated skills">
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/165506034?v=4" width="180" alt="Ruchira Kotuwegedara">
+
+<br>
+
+<img src="https://img.shields.io/badge/Building-Data%20%26%20AI-0F766E?style=for-the-badge" alt="Building Data and AI">
+<img src="https://img.shields.io/badge/Learning-Machine%20Learning-4F46E5?style=for-the-badge" alt="Learning Machine Learning">
+
+</div>
 
 </td>
 </tr>
@@ -248,31 +257,26 @@ A full-stack system connecting a Spring Boot backend with a React frontend and M
 
 <div align="center">
 
-<a href="https://github.com/Ruchiyah">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchiyah&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github" alt="Ruchira's GitHub stats">
-</a>
-
-<a href="https://github.com/Ruchiyah">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiyah&layout=compact&langs_count=8&hide_border=true" alt="Top languages">
-</a>
+<img src="https://img.shields.io/github/followers/Ruchiyah?style=for-the-badge&label=FOLLOWERS&color=0F766E" alt="GitHub followers">
+<img src="https://img.shields.io/github/stars/Ruchiyah?style=for-the-badge&label=STARS&color=4F46E5" alt="GitHub stars">
+<img src="https://img.shields.io/github/commit-activity/y/Ruchiyah?style=for-the-badge&label=COMMITS%2FYEAR&color=7C3AED" alt="Annual commits">
+<img src="https://img.shields.io/github/last-commit/Ruchiyah/Ruchiyah?style=for-the-badge&label=PROFILE%20UPDATED&color=0369A1" alt="Last profile commit">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ruchiyah&hide_border=true" alt="GitHub streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiyah&hide_border=true&area=true" width="95%" alt="Contribution activity">
+<a href="https://github.com/Ruchiyah?tab=repositories">
+<img src="https://img.shields.io/badge/📦-Explore%20all%20repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories">
+</a>
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ruchiyah&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub trophies">
+### 🟩 My contribution graph
+
+<a href="https://github.com/Ruchiyah">
+<img src="https://ghchart.rshah.org/0F766E/Ruchiyah" alt="Ruchira's GitHub contribution graph">
+</a>
 
 </div>
 
