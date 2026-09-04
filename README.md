@@ -1,368 +1,357 @@
 <div align="center">
 
-# 👋 Hey, I'm Ruchira Kotuwegedara
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ruchira%20Kotuwegedara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20AI%20%7C%20Software&descAlignY=62&descSize=18" width="100%" alt="Ruchira Kotuwegedara header">
 
-### 🎓 BSc (Hons) Information Technology · Data Science
-### 🧠 Data • Analytics • AI • Software Engineering
-
-<p>
-  <a href="https://github.com/Ruchiyah">
-    <img src="https://img.shields.io/badge/GitHub-Ruchiyah-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.google.com/search?q=Ruchira+Kotuwegedara+Data+Science">
-    <img src="https://img.shields.io/badge/Focus-Data%20Science-0A7B83?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ruchiyah&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=0A7B83&center=true&vCenter=true&width=850&lines=Turning+data+into+evidence+%F0%9F%93%8A;Building+systems+that+solve+real+problems+%F0%9F%9A%80;Learning+AI+%2B+Machine+Learning+step+by+step+%F0%9F%A4%96;From+raw+data+to+useful+decisions+%F0%9F%92%A1" alt="Typing animation">
-
-</div>
-
----
-
-## 🧭 A little about me
-
-I'm an **Information Technology undergraduate specializing in Data Science** at the **Sri Lanka Institute of Information Technology (SLIIT)**.
-
-What genuinely interests me is the space where **data, intelligent systems, and practical software** meet. I enjoy taking something messy—a dataset, a business problem, or a system requirement—and turning it into something structured, understandable, and useful.
-
-My GitHub reflects that path:
-
-> **Explore → Analyse → Build → Learn → Improve**
-
-I'm still growing, and that's intentional. I care more about understanding *why* something works than simply making it work once.
-
----
-
-## 🎯 What I'm building toward
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Data & Analytics
-- Data cleaning & preparation
-- Statistical analysis
-- Data visualization
-- Business intelligence
-- Data warehousing
-- Evidence-based insights
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-- Machine learning foundations
-- Predictive modelling
-- AI/ML experimentation
-- Data-driven problem solving
-- Continuous exploration of modern AI
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 💻 Software Engineering
-- Full-stack web applications
-- REST APIs
-- Database-backed systems
-- Authentication & authorization
-- Practical system design
-
-</td>
-<td>
-
-### 🌱 Continuous Learning
-- Strengthening Python & SQL
-- Expanding ML knowledge
-- Improving engineering practices
-- Building more end-to-end projects
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Work
-
-I prefer projects that demonstrate **a complete thought process**, not just a technology name.
-
-### 🏥 [Patient Satisfaction Analysis — Statistical Modeling](https://github.com/Ruchiyah/Patient-Satisfaction-Analysis-statistical-modeling-)
-
-**Python + R · Healthcare Analytics · Statistics · Predictive Modeling**
-
-A healthcare analytics study using HCAHPS survey data to investigate factors associated with patient satisfaction.
-
-**What I worked with:**
-- 🐼 Python / Pandas for preprocessing
-- 📈 Correlation analysis
-- 🧪 Independent-samples T-Test
-- 📊 One-Way ANOVA
-- 🤖 Multiple Linear Regression
-- 🎨 Statistical visualizations with R / ggplot2
-
-**Why it matters:** this project shows how I move from **raw data → statistical evidence → interpretable findings**.
-
----
-
-### 🚗 [Car Sales Data Warehouse & Business Intelligence](https://github.com/Ruchiyah/Car-Sales-Data-Warehousing-and-Business-Intelligence-)
-
-**SQL Server · SSIS · SSAS · Excel · Power BI**
-
-An end-to-end DWBI solution that transforms operational-style car sales data into an analytical platform.
-
-**The journey:**
-
-```text
-Source Data
-    ↓
-Staging
-    ↓
-ETL / SSIS
-    ↓
-Star Schema
-    ↓
-SQL Server Data Warehouse
-    ↓
-SSAS OLAP Cube
-    ├── Excel Analysis
-    └── Power BI Reporting
-```
-
-**Concepts demonstrated:**
-- ⭐ Dimensional modelling
-- 🔑 Surrogate keys
-- 🔄 ETL pipelines & transformations
-- 🔎 Lookup-based integration
-- 🧊 OLAP analysis
-- 📈 Interactive BI reporting
-
-This project represents one of the areas I'm especially interested in: **turning operational data into something decision-makers can actually use**.
-
----
-
-### 🏥 [Helamed Hospital Management System](https://github.com/Ruchiyah/Hospital-Management-System)
-
-**MERN Stack · MongoDB · React · Node.js**
-
-A full-stack hospital management system covering real operational workflows such as:
-
-- 👤 Patient management
-- 👨‍⚕️ Doctor & staff management
-- 📅 Appointment scheduling
-- 🧪 Laboratory management
-- 💊 Pharmacy operations
-- 📊 Reporting & dashboards
-- 🔐 JWT authentication & role-based access
-
-**What this taught me:** building software is not only about UI or code—it is about understanding **people, workflows, data, and system boundaries**.
-
----
-
-### 🏫 [Smart Campus Operations Hub](https://github.com/Ruchiyah/-it3030-paf-2026-smart-campus-Y3S1-WD-112)
-
-**Java · Spring Boot · React · MongoDB · Vite · Tailwind CSS**
-
-A full-stack system for campus resource management, bookings, maintenance tickets, and role-based dashboards.
-
-It combines:
-
-`Spring Boot REST API` + `MongoDB` + `React` + `JWT/OAuth2` + `Tailwind CSS`
-
-This is part of my journey toward becoming comfortable not only with analysis, but also with **building the systems around the data**.
-
----
-
-## 🧰 My toolbox
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,r,java,js,html" alt="Languages">
-
-### Data / Analytics / BI
-
-<img src="https://skillicons.dev/icons?i=python,mongodb,mysql" alt="Data tools">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=2C8C99&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ruchira+%F0%9F%91%8B;IT+Undergraduate+%7C+Data+Science+enthusiast;I+turn+data+into+evidence+%F0%9F%93%8A;I+build+systems+that+solve+problems+%F0%9F%9A%80;Currently+going+deeper+into+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG">
 
 <br>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/SSIS-742774?style=for-the-badge&logo=microsoft" alt="SSIS">
-<img src="https://img.shields.io/badge/SSAS-0078D4?style=for-the-badge&logo=microsoft" alt="SSAS">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,spring,mongodb,vite,tailwind,git,github,vscode" alt="Development stack">
+<a href="https://github.com/Ruchiyah">
+<img src="https://img.shields.io/badge/GitHub-Ruchiyah-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://github.com/Ruchiyah?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0F766E?style=for-the-badge&logo=github" alt="Projects">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Ruchiyah&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
----
-
-## 🧠 How I like to solve problems
-
-```text
-        ┌─────────────────┐
-        │  Understand     │
-        │  the problem    │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Explore the     │
-        │ data / system   │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Build a clear   │
-        │ solution        │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Test, question, │
-        │ improve         │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Turn it into    │
-        │ something useful│
-        └─────────────────┘
-```
-
-I like understanding the **reason behind a result**, not just the result itself.
-
-That mindset is a big reason why statistical modelling, data warehousing, BI, and AI interest me.
-
----
-
-## 📚 Currently learning
+<br>
 
 <table>
 <tr>
-<td>📊</td>
-<td><b>Data Science</b><br>Strengthening analytical thinking, statistics, modelling and practical data workflows.</td>
-</tr>
-<tr>
-<td>🤖</td>
-<td><b>Machine Learning & AI</b><br>Building stronger foundations and gradually moving toward more advanced intelligent systems.</td>
-</tr>
-<tr>
-<td>🗄️</td>
-<td><b>Data Engineering & BI</b><br>Learning how data moves from source systems into reliable analytical environments.</td>
-</tr>
-<tr>
-<td>💻</td>
-<td><b>Software Engineering</b><br>Improving the engineering side of building maintainable, useful applications.</td>
+<td width="52%" valign="top">
+
+# 👨‍💻 I'm Ruchira
+
+🎓 **BSc (Hons) in Information Technology**  
+📍 **SLIIT · Sri Lanka**  
+📊 **Data Science focused**  
+🧠 Interested in **AI, ML & analytics**  
+💻 I also build **full-stack applications**
+
+I enjoy the point where **data becomes a decision** and where a messy idea becomes a working system.
+
+I'm not trying to collect technologies just to make a longer list.
+
+**I want to understand things deeply, build them, test them, and keep improving.**
+
+</td>
+
+<td width="48%" valign="top">
+
+<img src="https://github.com/VehanRajintha/VehanRajintha/raw/main/Skills_Animation_Dark.gif" width="100%" alt="Animated skills">
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🌟 Beyond the code
+<div align="center">
 
-I don't want my profile to feel like a list of technologies.
+## 🧩 What am I into?
 
-I'm someone who enjoys **learning by building**, experimenting with new ideas, and gradually turning curiosity into real skills.
+<table>
+<tr>
+<td align="center" width="25%">
 
-A few things that keep me human outside the terminal:
+### 📊
+**DATA**
 
-🎸 Playing guitar  
-📖 Reading mysterious stories  
-🎮 Playing games with friends  
-🧩 Exploring interesting technology and AI tools
+Statistics  
+Analytics  
+Visualization  
+BI
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI**
+
+Machine Learning  
+Predictive Models  
+AI Exploration
+
+</td>
+<td align="center" width="25%">
+
+### 💻
+**BUILD**
+
+Web Apps  
+APIs  
+Databases  
+System Design
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+**LEARN**
+
+Experiment  
+Question  
+Improve  
+Repeat
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 📈 GitHub activity
+# ⚡ A quick look at my journey
+
+```text
+             ┌────────────────────────┐
+             │   Information Tech     │
+             └───────────┬────────────┘
+                         │
+              ┌──────────▼──────────┐
+              │    Data & Statistics │
+              └──────────┬──────────┘
+                         │
+              ┌──────────▼──────────┐
+              │      Analytics       │
+              └──────────┬──────────┘
+                         │
+                ┌────────▼────────┐
+                │   BI / DW / SQL  │
+                └────────┬─────────┘
+                         │
+                ┌────────▼─────────┐
+                │ Machine Learning │
+                └────────┬─────────┘
+                         │
+                  ┌──────▼──────┐
+                  │  AI Systems │
+                  └─────────────┘
+```
+
+---
+
+# 🚀 Things I've built
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ruchiyah&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" height="170" alt="GitHub stats">
+### 🏥 Patient Satisfaction Analysis
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiyah&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages">
+<a href="https://github.com/Ruchiyah/Patient-Satisfaction-Analysis-statistical-modeling-">
+<img src="https://img.shields.io/badge/Python-Data%20Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/R-Statistical%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Healthcare-Analytics-0F766E?style=for-the-badge">
+</a>
+
+**Python → clean data → statistical tests → regression → insights**
+
+Correlation analysis, T-Test, ANOVA and Multiple Linear Regression were used to investigate factors associated with patient satisfaction.
+
+<br>
+
+### 🚗 Car Sales Data Warehouse & BI
+
+<a href="https://github.com/Ruchiyah/Car-Sales-Data-Warehousing-and-Business-Intelligence-">
+<img src="https://img.shields.io/badge/SQL%20Server-Data%20Warehouse-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/SSIS-ETL-742774?style=for-the-badge&logo=microsoft">
+<img src="https://img.shields.io/badge/SSAS-OLAP-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power%20BI-BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>
+
+**Operational data → staging → ETL → star schema → OLAP → dashboards**
+
+A complete data-warehousing and business-intelligence workflow built around SQL Server, SSIS, SSAS, Excel and Power BI.
+
+<br>
+
+### 🏥 Helamed Hospital Management System
+
+<a href="https://github.com/Ruchiyah/Hospital-Management-System">
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=111827">
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+**Patients • Doctors • Appointments • Laboratory • Pharmacy • Reports**
+
+A full-stack healthcare system built around real-world operational workflows and role-based access.
+
+<br>
+
+### 🏫 Smart Campus Operations Hub
+
+<a href="https://github.com/Ruchiyah/-it3030-paf-2026-smart-campus-Y3S1-WD-112">
+<img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-REST%20API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=111827">
+<img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+**Resources • Bookings • Maintenance tickets • Dashboards • Authentication**
+
+A full-stack system connecting a Spring Boot backend with a React frontend and MongoDB.
+
+</div>
+
+---
+
+# 🛠️ My toolbox
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,r,java,javascript,html,css" alt="Programming languages">
+
+### 📊 Data & Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchiyah&hide_border=true" height="170" alt="GitHub streak">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/SSIS-742774?style=for-the-badge&logo=microsoft" alt="SSIS">
+<img src="https://img.shields.io/badge/SSAS-0078D4?style=for-the-badge" alt="SSAS">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+
+### ⚙️ Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,vite,tailwind,git,github,vscode,postman" alt="Development tools">
 
 </div>
 
 ---
 
-## 📊 Contribution journey
+# 📚 Currently learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiyah&hide_border=true&area=true" alt="GitHub contribution activity graph">
+<img src="https://img.shields.io/badge/📊-Data%20Science-0F766E?style=flat-square">
+<img src="https://img.shields.io/badge/🤖-Machine%20Learning-4F46E5?style=flat-square">
+<img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/🗄️-Data%20Engineering-0369A1?style=flat-square">
+<img src="https://img.shields.io/badge/☁️-Cloud%20Computing-0284C7?style=flat-square">
+
+<br><br>
+
+> **Learn something. Build something. Break something. Understand why. Fix it. Repeat.**
 
 </div>
 
-<details>
-<summary><b>🐍 Want the contribution snake?</b></summary>
-
-<br>
-
-The contribution snake is intentionally not hard-coded here because it needs a GitHub Action to generate the animation from the profile's real contribution history.
-
-See the official pattern here:
-https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
-
-</details>
-
 ---
 
-## 🗺️ My direction
-
-```text
-        Software Foundations
-                 │
-                 ▼
-        Data & Statistics
-                 │
-                 ▼
-       Data Engineering / BI
-                 │
-                 ▼
-        Machine Learning
-                 │
-                 ▼
-         AI / Intelligent
-            Systems
-                 │
-                 ▼
-       Real-world solutions
-```
-
-I'm not trying to rush to a title.
-
-I'm trying to become the kind of engineer who can look at a real problem, understand the data behind it, build the right solution, and explain **why that solution makes sense**.
-
----
-
-## 🤝 Let's connect
-
-I'm always interested in meeting people who enjoy **data, AI, software engineering, learning, and building things that are actually useful**.
+# 📊 GitHub at a glance
 
 <div align="center">
 
 <a href="https://github.com/Ruchiyah">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchiyah&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github" alt="Ruchira's GitHub stats">
 </a>
+
+<a href="https://github.com/Ruchiyah">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiyah&layout=compact&langs_count=8&hide_border=true" alt="Top languages">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ruchiyah&hide_border=true" alt="GitHub streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiyah&hide_border=true&area=true" width="95%" alt="Contribution activity">
 
 </div>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-### ✨ Thanks for stopping by!
+<img src="https://github-profile-trophy.vercel.app/?username=Ruchiyah&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub trophies">
 
-**The best way to understand me is to explore the projects.**
+</div>
 
-<sub>Built with curiosity · improved through practice · driven by data</sub>
+---
+
+# 🎸 A little more about me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Outside the code
+
+🎸 **Guitar** — one of my favourite ways to switch off.
+
+📖 **Mystery stories** — I like stories that make me question what is actually going on.
+
+🎮 **Games with friends** — because not every problem needs a terminal.
+
+🧩 **Technology** — I naturally end up exploring tools, ideas and things I don't fully understand yet.
+
+</td>
+
+<td width="50%" valign="top">
+
+### My working mindset
+
+**Curiosity** → ask better questions  
+**Evidence** → don't trust assumptions blindly  
+**Building** → learn by doing  
+**Failure** → debug, don't panic  
+**Improvement** → make the next version better
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 What I want to become
+
+I want to grow into a **Data Scientist / AI-focused technologist** who can work across the whole journey:
+
+```text
+Real-world problem
+       ↓
+Understand the context
+       ↓
+Collect / prepare data
+       ↓
+Analyse & model
+       ↓
+Build the solution
+       ↓
+Explain the evidence
+       ↓
+Create something useful
+```
+
+The goal isn't just to know more tools.
+
+**The goal is to become better at solving problems.**
+
+---
+
+<div align="center">
+
+## 🤝 Thanks for visiting!
+
+<a href="https://github.com/Ruchiyah?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-0F766E?style=for-the-badge&logo=github" alt="Explore repositories">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=6B7280&center=true&vCenter=true&width=700&lines=Still+learning.+Still+building.+Still+curious." alt="Closing animation">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer">
 
 </div>
