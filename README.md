@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ruchira%20Kotuwegedara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Full-Stack%20%7C%20SLIIT%20Undergrad&descAlignY=62&descSize=18" width="100%" alt="Ruchira Kotuwegedara header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ruchira%20Kotuwegedara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20AI%20%7C%20Software&descAlignY=62&descSize=18" width="100%" alt="Ruchira Kotuwegedara header"> <!--[cite: 1] -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=2C8C99&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ruchira+%F0%9F%91%8B;SLIIT+Data+Science+Undergrad+%F0%9F%8E%93;I+turn+data+into+evidence+%F0%9F%93%8A;Building+MERN+%26+AI+systems+%F0%9F%9A%80;Fuelled+by+Stoicism+%26+Avicii+%E2%9A%A1" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=2C8C99&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ruchira+%F0%9F%91%8B;IT+Undergraduate+%7C+Data+Science+enthusiast;I+turn+data+into+evidence+%F0%9F%93%8A;I+build+systems+that+solve+problems+%F0%9F%9A%80;Currently+going+deeper+into+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG"> <!--[cite: 1] -->
 
 <br>
 
 <a href="https://github.com/Ruchiyah">
 <img src="https://img.shields.io/badge/GitHub-Ruchiyah-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
+</a> <!--[cite: 1] -->
 <a href="https://github.com/Ruchiyah?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-Explore-0F766E?style=for-the-badge&logo=github" alt="Projects">
-</a>
-<img src="https://komarev.com/ghpvc/?username=Ruchiyah&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views">
+</a> <!--[cite: 1] -->
+<img src="https://komarev.com/ghpvc/?username=Ruchiyah&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views"> <!--[cite: 1] -->
 
 </div>
 
@@ -28,20 +28,19 @@
 📍 **SLIIT · Sri Lanka**  
 📊 **Data Science focused**  
 🧠 Interested in **AI, ML & analytics**  
-💻 I also build **full-stack MERN applications**
+💻 I also build **full-stack applications** <!--[cite: 1] -->
 
-I enjoy the point where **data becomes a decision** and where a messy idea becomes a working system. 
+I enjoy the point where **data becomes a decision** and where a messy idea becomes a working system. <!--[cite: 1] -->
 
-**I want to understand things deeply, build them, test them, and keep improving.**
+I'm not trying to collect technologies just to make a longer list. <!--[cite: 1] -->
+
+**I want to understand things deeply, build them, test them, and keep improving.** <!--[cite: 1] -->
 
 </td>
 
 <td width="48%" valign="top">
 
-<!-- Animated skills globe from Cool-GIFs-For-GitHub -->
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/21f1bf4e-b53d-4aa4-9721-a4773cdd22ce" width="70%" alt="Animated skills">
-</div>
+<img src="https://github.com/VehanRajintha/VehanRajintha/raw/main/Skills_Animation_Dark.gif" width="100%" alt="Animated skills"> <!--[cite: 1] -->
 
 </td>
 </tr>
@@ -51,14 +50,99 @@ I enjoy the point where **data becomes a decision** and where a messy idea becom
 
 <div align="center">
 
-## 🎮 Take a break & play Space Shooter
+## 🧩 What am I into?
 
-<!-- Interactive Space Shooter -->
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📊
+**DATA**
+
+Statistics  
+Analytics  
+Visualization  
+BI <!--[cite: 1] -->
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI**
+
+Machine Learning  
+Predictive Models  
+AI Exploration <!--[cite: 1] -->
+
+</td>
+<td align="center" width="25%">
+
+### 💻
+**BUILD**
+
+Web Apps  
+APIs  
+Databases  
+System Design <!--[cite: 1] -->
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+**LEARN**
+
+Experiment  
+Question  
+Improve  
+Repeat <!--[cite: 1] -->
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ A quick look at my journey
+
+```text
+             ┌────────────────────────┐
+             │   Information Tech     │
+             └───────────┬────────────┘
+                         │
+              ┌──────────▼──────────┐
+              │    Data & Statistics │
+              └──────────┬──────────┘
+                         │
+              ┌──────────▼──────────┐
+              │      Analytics       │
+              └──────────┬──────────┘
+                         │
+                ┌────────▼────────┐
+                │   BI / DW / SQL  │
+                └────────┬─────────┘
+                         │
+                ┌────────▼─────────┐
+                │ Machine Learning │
+                └────────┬─────────┘
+                         │
+                  ┌──────▼──────┐
+                  │  AI Systems │
+                  └─────────────┘
+``` <!--[cite: 1] -->
+
+---
+
+<div align="center">
+
+## 👾 Take a break: Space Shooter
+
 <a href="https://github.com/czl9707/gh-space-shooter">
   <img src="https://github.com/czl9707/gh-space-shooter/blob/master/demo.gif?raw=true" width="600" alt="Space Shooter Game">
 </a>
 
-*Click the image above or visit [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) to play directly in a repository!*
+*Click the image above to play directly in the repository!*
 
 </div>
 
@@ -74,11 +158,11 @@ I enjoy the point where **data becomes a decision** and where a messy idea becom
 <img src="https://img.shields.io/badge/Python-Data%20Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-Statistical%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/Healthcare-Analytics-0F766E?style=for-the-badge">
-</a>
+</a> <!--[cite: 1] -->
 
-**Python → clean data → statistical tests → regression → insights**
+**Python → clean data → statistical tests → regression → insights** <!--[cite: 1] -->
 
-Correlation analysis, T-Test, ANOVA and Multiple Linear Regression were used to investigate factors associated with patient satisfaction.
+Correlation analysis, T-Test, ANOVA and Multiple Linear Regression were used to investigate factors associated with patient satisfaction. <!--[cite: 1] -->
 
 <br>
 
@@ -89,11 +173,11 @@ Correlation analysis, T-Test, ANOVA and Multiple Linear Regression were used to 
 <img src="https://img.shields.io/badge/SSIS-ETL-742774?style=for-the-badge&logo=microsoft">
 <img src="https://img.shields.io/badge/SSAS-OLAP-0078D4?style=for-the-badge">
 <img src="https://img.shields.io/badge/Power%20BI-BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</a>
+</a> <!--[cite: 1] -->
 
-**Operational data → staging → ETL → star schema → OLAP → dashboards**
+**Operational data → staging → ETL → star schema → OLAP → dashboards** <!--[cite: 1] -->
 
-A complete data-warehousing and business-intelligence workflow built around SQL Server, SSIS, SSAS, Excel and Power BI.
+A complete data-warehousing and business-intelligence workflow built around SQL Server, SSIS, SSAS, Excel and Power BI. <!--[cite: 1] -->
 
 <br>
 
@@ -103,11 +187,26 @@ A complete data-warehousing and business-intelligence workflow built around SQL 
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=111827">
 <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
+</a> <!--[cite: 1] -->
 
-**Patients • Doctors • Appointments • Laboratory • Pharmacy • Reports**
+**Patients • Doctors • Appointments • Laboratory • Pharmacy • Reports** <!--[cite: 1] -->
 
-A full-stack healthcare system built around real-world operational workflows and role-based access.
+A full-stack healthcare system built around real-world operational workflows and role-based access. <!--[cite: 1] -->
+
+<br>
+
+### 🏫 Smart Campus Operations Hub
+
+<a href="https://github.com/Ruchiyah/-it3030-paf-2026-smart-campus-Y3S1-WD-112">
+<img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-REST%20API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=111827">
+<img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a> <!--[cite: 1] -->
+
+**Resources • Bookings • Maintenance tickets • Dashboards • Authentication** <!--[cite: 1] -->
+
+A full-stack system connecting a Spring Boot backend with a React frontend and MongoDB. <!--[cite: 1] -->
 
 </div>
 
@@ -117,17 +216,45 @@ A full-stack healthcare system built around real-world operational workflows and
 
 <div align="center">
 
-### 👨‍💻 Languages & Frameworks
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/coding.gif" width="150" alt="Coding GIF">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,java,javascript,react,nodejs,express,mongodb,mysql,tailwind,spring,docker,git" alt="My Skills" />
-</a>
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,r,java,javascript,html,css" alt="Programming languages"> <!--[cite: 1] -->
+
+### 📊 Data & Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"> <!--[cite: 1] -->
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/SSIS-742774?style=for-the-badge&logo=microsoft" alt="SSIS">
+<img src="https://img.shields.io/badge/SSAS-0078D4?style=for-the-badge" alt="SSAS">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> <!--[cite: 1] -->
+
+### ⚙️ Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,vite,tailwind,git,github,vscode,postman" alt="Development tools"> <!--[cite: 1] -->
+
+</div>
+
+---
+
+# 📚 Currently learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/📊-Data%20Science-0F766E?style=flat-square"> <!--[cite: 1] -->
+<img src="https://img.shields.io/badge/🤖-Machine%20Learning-4F46E5?style=flat-square"> <!--[cite: 1] -->
+<img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-7C3AED?style=flat-square"> <!--[cite: 1] -->
+<img src="https://img.shields.io/badge/🗄️-Data%20Engineering-0369A1?style=flat-square"> <!--[cite: 1] -->
+<img src="https://img.shields.io/badge/☁️-Cloud%20Computing-0284C7?style=flat-square"> <!--[cite: 1] -->
+
+<br><br>
+
+> **Learn something. Build something. Break something. Understand why. Fix it. Repeat.** <!--[cite: 1] -->
 
 </div>
 
@@ -137,26 +264,41 @@ A full-stack healthcare system built around real-world operational workflows and
 
 <div align="center">
 
-<!-- GitHub Profile Summary Cards -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruchiyah&theme=dracula" width="100%" alt="Profile Summary Card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruchiyah&theme=dracula" width="80%" alt="Profile Summary Card">
 </a>
 
 <br><br>
 
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/Ruchiyah/Ruchiyah/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
+<img src="https://raw.githubusercontent.com/Ruchiyah/Ruchiyah/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph">
 
 <br><br>
 
 <a href="https://github.com/Ruchiyah">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchiyah&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github" alt="Ruchira's GitHub stats">
-</a>
+</a> <!--[cite: 1] -->
+
 <a href="https://github.com/Ruchiyah">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiyah&layout=compact&langs_count=8&hide_border=true" alt="Top languages">
-</a>
+</a> <!--[cite: 1] -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiyah&hide_border=true&area=true" width="95%" alt="Contribution activity">
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ruchiyah&hide_border=true" alt="GitHub streak"> <!--[cite: 1] -->
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiyah&hide_border=true&area=true" width="95%" alt="Contribution activity"> <!--[cite: 1] -->
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ruchiyah&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub trophies"> <!--[cite: 1] -->
 
 </div>
 
@@ -170,15 +312,13 @@ A full-stack healthcare system built around real-world operational workflows and
 
 ### Outside the code
 
-🎧 **Music** — Electronic beats, Skrillex, and Avicii keep my coding sessions focused and energized.
+🎸 **Guitar** — one of my favourite ways to switch off. <!--[cite: 1] -->
 
-🏛️ **Philosophy** — I apply Stoic principles to navigate both complex software bugs and daily life.
+📖 **Mystery stories** — I like stories that make me question what is actually going on. <!--[cite: 1] -->
 
-📸 **Creative** — Designing 8K HDR cinematic, editorial-style portraits with precise lighting configurations.
+🎮 **Games with friends** — because not every problem needs a terminal. <!--[cite: 1] -->
 
-🏔️ **Wanderlust** — Dreaming of exploring the mountainous terrain and cool climates of Switzerland.
-
-🎸 **Guitar** — One of my favourite ways to switch off.
+🧩 **Technology** — I naturally end up exploring tools, ideas and things I don't fully understand yet. <!--[cite: 1] -->
 
 </td>
 
@@ -190,11 +330,37 @@ A full-stack healthcare system built around real-world operational workflows and
 **Evidence** → don't trust assumptions blindly  
 **Building** → learn by doing  
 **Failure** → debug, don't panic  
-**Improvement** → make the next version better
+**Improvement** → make the next version better <!--[cite: 1] -->
 
 </td>
 </tr>
 </table>
+
+---
+
+# 🌱 What I want to become
+
+I want to grow into a **Data Scientist / AI-focused technologist** who can work across the whole journey: <!--[cite: 1] -->
+
+```text
+Real-world problem
+       ↓
+Understand the context
+       ↓
+Collect / prepare data
+       ↓
+Analyse & model
+       ↓
+Build the solution
+       ↓
+Explain the evidence
+       ↓
+Create something useful
+``` <!--[cite: 1] -->
+
+The goal isn't just to know more tools. <!--[cite: 1] -->
+
+**The goal is to become better at solving problems.** <!--[cite: 1] -->
 
 ---
 
@@ -204,15 +370,14 @@ A full-stack healthcare system built around real-world operational workflows and
 
 <a href="https://github.com/Ruchiyah?tab=repositories">
 <img src="https://img.shields.io/badge/Explore-My%20Repositories-0F766E?style=for-the-badge&logo=github" alt="Explore repositories">
-</a>
+</a> <!--[cite: 1] -->
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=6B7280&center=true&vCenter=true&width=700&lines=Still+learning.+Still+building.+Still+curious." alt="Closing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=6B7280&center=true&vCenter=true&width=700&lines=Still+learning.+Still+building.+Still+curious." alt="Closing animation"> <!--[cite: 1] -->
 
 <br><br>
 
-<!-- Animated Footer from Cool-GIFs-For-GitHub -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer"> <!--[cite: 1] -->
 
 </div>
