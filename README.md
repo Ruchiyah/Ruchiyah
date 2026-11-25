@@ -7,6 +7,7 @@
 <a href="https://github.com/Ruchiyah"><img src="https://img.shields.io/badge/GitHub-Ruchiyah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/ruchira-kotuwegedara/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://wa.me/94716276971?text=Hi%20Ruchira%2C%20I%20found%20you%20on%20GitHub%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="mailto:ruchirakotuwegedara@gmail.com?subject=Hi%20Ruchira%20%28from%20GitHub%29"><img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Ruchiyah?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 <img src="https://komarev.com/ghpvc/?username=Ruchiyah&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views">
 
@@ -278,11 +279,12 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ruchira-kotuwegedara/"><img src="./assets/contact-linkedin.svg" width="32%" alt="Connect on LinkedIn — ruchira-kotuwegedara"></a>
-<a href="https://www.instagram.com/itzz.ruchy/"><img src="./assets/contact-instagram.svg" width="32%" alt="Follow on Instagram — @itzz.ruchy"></a>
-<a href="https://wa.me/94716276971?text=Hi%20Ruchira%2C%20I%20found%20you%20on%20GitHub%20%F0%9F%91%8B"><img src="./assets/contact-whatsapp.svg" width="32%" alt="Message me on WhatsApp"></a>
+<a href="https://www.linkedin.com/in/ruchira-kotuwegedara/"><img src="./assets/contact-linkedin.svg" width="49%" alt="Connect on LinkedIn — ruchira-kotuwegedara"></a>
+<a href="https://www.instagram.com/itzz.ruchy/"><img src="./assets/contact-instagram.svg" width="49%" alt="Follow on Instagram — @itzz.ruchy"></a>
+<a href="https://wa.me/94716276971?text=Hi%20Ruchira%2C%20I%20found%20you%20on%20GitHub%20%F0%9F%91%8B"><img src="./assets/contact-whatsapp.svg" width="49%" alt="Message me on WhatsApp"></a>
+<a href="mailto:ruchirakotuwegedara@gmail.com?subject=Hi%20Ruchira%20%28from%20GitHub%29"><img src="./assets/contact-email.svg" width="49%" alt="Email me — ruchirakotuwegedara@gmail.com"></a>
 
-<sub>💬 Tap WhatsApp to open a chat with me directly · +94 71 627 6971</sub>
+<sub>💬 WhatsApp: +94 71 627 6971 · ✉️ Email: <a href="mailto:ruchirakotuwegedara@gmail.com">ruchirakotuwegedara@gmail.com</a></sub>
 
 </div>
 

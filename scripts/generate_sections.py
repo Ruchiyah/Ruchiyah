@@ -503,7 +503,7 @@ def contact():
             + t(46, 124, "Let's connect", 52, "url(#shine)", 900, extra='letter-spacing="-1"')
             + t(48, 166, "Got an idea, a question or a data / AI project? Say hi — I'd love to talk.", 18, "#cbd5e1")
             + "".join(f'<circle cx="{620 + k * 40}" cy="{110 + (k % 2) * 30}" r="5" fill="{c}" class="pulse" style="animation-delay:-{k * .5}s"/>'
-                      for k, c in enumerate(["#0a66c2", "#dd2a7b", "#25d366"])))
+                      for k, c in enumerate(["#0a66c2", "#dd2a7b", "#25d366", "#ea4335"])))
     svg("contact-header.svg", W, H, "Let's connect — got an idea, a question or a data / AI project? Say hi.", body)
 
     def icon(kind, x, y):
@@ -514,6 +514,9 @@ def contact():
             return (f'<rect x="{x}" y="{y}" width="52" height="52" rx="15" fill="none" stroke="#fff" stroke-width="4.5"/>'
                     f'<circle cx="{x + 26}" cy="{y + 26}" r="11" fill="none" stroke="#fff" stroke-width="4.5"/>'
                     f'<circle cx="{x + 40}" cy="{y + 12}" r="3.2" fill="#fff"/>')
+        if kind == "email":
+            return (f'<rect x="{x}" y="{y + 6}" width="52" height="40" rx="7" fill="#fff"/>'
+                    f'<path d="M{x + 3},{y + 10} L{x + 26},{y + 29} L{x + 49},{y + 10}" fill="none" stroke="#ea4335" stroke-width="4.5" stroke-linejoin="round"/>')
         return (f'<path d="M{x + 26},{y + 2} a24,24 0 1,1 -12.5,44.5 L{x + 2},{y + 50} l3.8,-11.5 A24,24 0 0,1 {x + 26},{y + 2}z" fill="none" stroke="#fff" stroke-width="4"/>'
                 f'<path d="M{x + 17},{y + 15} c-3,2 -4,6 -1,11 c4,7 9,11 15,13 c4,1 7,-1 8,-4 l-5,-4 l-3,2 c-3,-1 -7,-5 -8,-8 l2,-3 z" fill="#fff"/>')
 
@@ -521,8 +524,9 @@ def contact():
         ("linkedin", "LinkedIn", "ruchira-kotuwegedara", ("#0a66c2", "#004182"), "CONNECT"),
         ("instagram", "Instagram", "@itzz.ruchy", ("#f58529", "#dd2a7b", "#8134af"), "FOLLOW"),
         ("whatsapp", "WhatsApp", "Message me directly", ("#25d366", "#128c7e"), "CHAT"),
+        ("email", "Email", "ruchirakotuwegedara@gmail.com", ("#ea4335", "#b31412"), "WRITE"),
     ]
-    BW, BH = 380, 120
+    BW, BH = 480, 120
     for kind, name, handle, cols, cta in buttons:
         stops = "".join(f'<stop offset="{k / (len(cols) - 1):.2f}" stop-color="{c}"/>' for k, c in enumerate(cols))
         b = (f'<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">{stops}</linearGradient>'
