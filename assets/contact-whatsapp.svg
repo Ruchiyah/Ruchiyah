@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 120" width="380" height="120" role="img" aria-label="WhatsApp — Message me directly">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030712"/><stop offset="1" stop-color="#06201f"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#5eead4"/><stop offset=".35" stop-color="#ffffff"/><stop offset=".65" stop-color="#22c55e"/><stop offset="1" stop-color="#5eead4"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<style>
+  .bob{animation:bob 4.5s ease-in-out infinite}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+  .run{stroke-dasharray:90 2400;animation:run 7s linear infinite}
+  @keyframes run{to{stroke-dashoffset:-2490}}
+  .flow{stroke-dasharray:6 8;animation:flow 1.2s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-14}}
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0.00" stop-color="#25d366"/><stop offset="1.00" stop-color="#128c7e"/></linearGradient><linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="c"><rect width="380" height="120" rx="22"/></clipPath></defs><g clip-path="url(#c)"><rect width="380" height="120" fill="url(#g)"/><circle cx="340" cy="-10" r="90" fill="#fff" opacity=".08"/><circle cx="370" cy="140" r="60" fill="#000" opacity=".08"/><rect y="0" width="90" height="120" fill="url(#sheen)" transform="skewX(-20)"><animate attributeName="x" values="-160;460;460" keyTimes="0;.45;1" dur="4s" repeatCount="indefinite"/></rect></g><g class="bob"><path d="M54,36 a24,24 0 1,1 -12.5,44.5 L30,84 l3.8,-11.5 A24,24 0 0,1 54,36z" fill="none" stroke="#fff" stroke-width="4"/><path d="M45,49 c-3,2 -4,6 -1,11 c4,7 9,11 15,13 c4,1 7,-1 8,-4 l-5,-4 l-3,2 c-3,-1 -7,-5 -8,-8 l2,-3 z" fill="#fff"/></g><text x="100" y="56" fill="#fff" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="900" text-anchor="start" >WhatsApp</text><text x="100" y="82" fill="#fff" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="500" text-anchor="start" fill-opacity=".9">Message me directly</text><g><rect x="276" y="43.0" width="80" height="34" rx="17" fill="#fff" fill-opacity=".2" stroke="#fff" stroke-opacity=".55"/><text x="316" y="65.0" fill="#fff" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12.5" font-weight="800" text-anchor="middle" >CHAT →</text><animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.6s" repeatCount="indefinite"/></g>
+</svg>

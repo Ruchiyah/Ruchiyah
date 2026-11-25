@@ -1,0 +1,17 @@
+{
+  "_help": "Edit this file to update the Quest Log in the README. status: active | completed | next. xp: 0-100 (only used for active quests). A GitHub Action redraws assets/learning-quest.svg after every push.",
+  "player": "RUCHIRA",
+  "quests": [
+    { "icon": "📊", "name": "Data Science",            "detail": "EDA · statistical modelling · evaluation", "status": "active", "xp": 60 },
+    { "icon": "🤖", "name": "Machine Learning",        "detail": "scikit-learn · forecasting · model tuning", "status": "active", "xp": 50 },
+    { "icon": "🧠", "name": "Artificial Intelligence", "detail": "agents · RAG · LLM-powered apps",          "status": "active", "xp": 35 },
+    { "icon": "🔧", "name": "Data Engineering",        "detail": "ETL · pipelines · warehousing",            "status": "active", "xp": 45 },
+    { "icon": "☁️", "name": "Cloud Computing",         "detail": "deploying data & AI applications",         "status": "active", "xp": 20 },
+
+    { "icon": "🏗️", "name": "Data Warehousing & BI",   "detail": "SSIS · SSAS · Power BI",                   "status": "completed" },
+    { "icon": "📈", "name": "Statistical Analysis",    "detail": "R · t-tests · ANOVA · regression",         "status": "completed" },
+
+    { "icon": "🧬", "name": "Deep Learning",           "detail": "neural networks",                          "status": "next" },
+    { "icon": "🚀", "name": "MLOps",                   "detail": "shipping models to production",            "status": "next" }
+  ]
+}

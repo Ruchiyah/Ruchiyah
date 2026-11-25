@@ -1,0 +1,33 @@
+name: Quest Log (currently learning)
+
+# Edit data/learning.json (even in the GitHub web editor) and this redraws
+# assets/learning-quest.svg with the new quests, XP and save date.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/learning.json"
+      - "scripts/generate_learning.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Render quest log
+        run: python3 scripts/generate_learning.py
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/learning-quest.svg
+          if git commit -m "chore: update quest log"; then
+            git pull --rebase
+            git push
+          fi

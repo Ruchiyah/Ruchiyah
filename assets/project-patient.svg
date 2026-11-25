@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="Patient Satisfaction Analysis — Correlation analysis, t-tests, ANOVA and multiple linear regression used to investigate the factors associated with patient satisfaction.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#031a17"/></linearGradient>
+  <radialGradient id="halo" cx=".9" cy=".1" r=".6"><stop offset="0" stop-color="#14b8a6" stop-opacity=".35"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .bob{animation:bob 4s ease-in-out infinite}.bob2{animation:bob 4s ease-in-out -1.5s infinite}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+  .run{stroke-dasharray:120 1800;animation:run 6s linear infinite}
+  @keyframes run{to{stroke-dashoffset:-1920}}
+</style>
+<rect x="1" y="1" width="598" height="318" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="598" height="318" rx="20" fill="url(#halo)"/>
+<rect x="1" y="1" width="598" height="318" rx="20" fill="none" stroke="#14b8a6" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="run" x="1" y="1" width="598" height="318" rx="20" fill="none" stroke="#72d4ca" stroke-width="2.5" stroke-linecap="round"/>
+<g ><polygon points="512.7,94.0 530.0,104.0 530.0,84.0 512.7,74.0" fill="#14b8a6"/><polygon points="530.0,104.0 547.3,94.0 547.3,74.0 530.0,84.0" fill="#0d786c"/><polygon points="512.7,74.0 530.0,84.0 547.3,74.0 530.0,64.0" fill="#66d1c5"/><polyline points="512.7,74.0 530.0,64.0 547.3,74.0" fill="none" stroke="#b8eae4" stroke-width="1" opacity=".8"/></g><g class="bob"><g ><polygon points="512.7,72.0 530.0,82.0 530.0,62.0 512.7,52.0" fill="#37c3b3"/><polygon points="530.0,82.0 547.3,72.0 547.3,52.0 530.0,62.0" fill="#247f74"/><polygon points="512.7,52.0 530.0,62.0 547.3,52.0 530.0,42.0" fill="#7dd8ce"/><polyline points="512.7,52.0 530.0,42.0 547.3,52.0" fill="none" stroke="#c3ede8" stroke-width="1" opacity=".8"/></g></g><g class="bob2"><g ><polygon points="491.9,110.0 504.0,117.0 504.0,103.0 491.9,96.0" fill="#12a695"/><polygon points="504.0,117.0 516.1,110.0 516.1,96.0 504.0,103.0" fill="#0c6c61"/><polygon points="491.9,96.0 504.0,103.0 516.1,96.0 504.0,89.0" fill="#65c5ba"/><polyline points="491.9,96.0 504.0,89.0 516.1,96.0" fill="none" stroke="#b8e4df" stroke-width="1" opacity=".8"/></g></g>
+<text x="32" y="50" fill="#66d1c5" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2">STATISTICAL MODELLING · HEALTHCARE</text>
+<text x="32" y="88" fill="#f8fafc" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="800">Patient Satisfaction Analysis</text>
+<rect x="32" y="112" width="404" height="30" rx="8" fill="#020617" fill-opacity=".6" stroke="#1e293b"/>
+<text x="44" y="132" fill="#8adcd2" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12.5">Data → Statistical testing → Regression → Insights</text>
+<text x="32" y="176" fill="#cbd5e1" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15.5">Correlation analysis, t-tests, ANOVA and multiple linear</text><text x="32" y="199" fill="#cbd5e1" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15.5">regression used to investigate the factors associated with</text><text x="32" y="222" fill="#cbd5e1" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15.5">patient satisfaction.</text>
+<g transform="translate(32,256)"><rect width="73" height="30" rx="8" fill="#3776ab" fill-opacity=".22" stroke="#3776ab"/><text x="37" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">Python</text></g><g transform="translate(113,256)"><rect width="34" height="30" rx="8" fill="#276dc3" fill-opacity=".22" stroke="#276dc3"/><text x="17" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">R</text></g><g transform="translate(155,256)"><rect width="184" height="30" rx="8" fill="#0f766e" fill-opacity=".22" stroke="#0f766e"/><text x="92" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">Healthcare Analytics</text></g>
+<text x="570" y="294" fill="#94a3b8" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" text-anchor="end">view repo →</text>
+</svg>

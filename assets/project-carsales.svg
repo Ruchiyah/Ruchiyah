@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="Car Sales Data Warehouse &amp; BI — A data-warehousing and business-intelligence workflow built with SQL Server, SSIS, SSAS, Excel and Power BI.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#221602"/></linearGradient>
+  <radialGradient id="halo" cx=".9" cy=".1" r=".6"><stop offset="0" stop-color="#f59e0b" stop-opacity=".35"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .bob{animation:bob 4s ease-in-out infinite}.bob2{animation:bob 4s ease-in-out -1.5s infinite}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+  .run{stroke-dasharray:120 1800;animation:run 6s linear infinite}
+  @keyframes run{to{stroke-dashoffset:-1920}}
+</style>
+<rect x="1" y="1" width="598" height="318" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="598" height="318" rx="20" fill="url(#halo)"/>
+<rect x="1" y="1" width="598" height="318" rx="20" fill="none" stroke="#f59e0b" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="run" x="1" y="1" width="598" height="318" rx="20" fill="none" stroke="#f9c56d" stroke-width="2.5" stroke-linecap="round"/>
+<g ><polygon points="512.7,94.0 530.0,104.0 530.0,84.0 512.7,74.0" fill="#f59e0b"/><polygon points="530.0,104.0 547.3,94.0 547.3,74.0 530.0,84.0" fill="#9f6707"/><polygon points="512.7,74.0 530.0,84.0 547.3,74.0 530.0,64.0" fill="#f8c060"/><polyline points="512.7,74.0 530.0,64.0 547.3,74.0" fill="none" stroke="#fce2b6" stroke-width="1" opacity=".8"/></g><g class="bob"><g ><polygon points="512.7,72.0 530.0,82.0 530.0,62.0 512.7,52.0" fill="#f6ad30"/><polygon points="530.0,82.0 547.3,72.0 547.3,52.0 530.0,62.0" fill="#a0701f"/><polygon points="512.7,52.0 530.0,62.0 547.3,52.0 530.0,42.0" fill="#f9ca78"/><polyline points="512.7,52.0 530.0,42.0 547.3,52.0" fill="none" stroke="#fce6c1" stroke-width="1" opacity=".8"/></g></g><g class="bob2"><g ><polygon points="491.9,110.0 504.0,117.0 504.0,103.0 491.9,96.0" fill="#dc8e0a"/><polygon points="504.0,117.0 516.1,110.0 516.1,96.0 504.0,103.0" fill="#8f5c06"/><polygon points="491.9,96.0 504.0,103.0 516.1,96.0 504.0,89.0" fill="#e8b660"/><polyline points="491.9,96.0 504.0,89.0 516.1,96.0" fill="none" stroke="#f4ddb6" stroke-width="1" opacity=".8"/></g></g>
+<text x="32" y="50" fill="#f8c060" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2">DATA WAREHOUSING · BUSINESS INTELLIGENCE</text>
+<text x="32" y="88" fill="#f8fafc" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="800">Car Sales Data Warehouse &amp; BI</text>
+<rect x="32" y="112" width="450" height="30" rx="8" fill="#020617" fill-opacity=".6" stroke="#1e293b"/>
+<text x="44" y="132" fill="#face85" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12.5">Operational data → ETL → Star schema → OLAP → Dashboards</text>
+<text x="32" y="176" fill="#cbd5e1" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15.5">A data-warehousing and business-intelligence workflow built</text><text x="32" y="199" fill="#cbd5e1" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15.5">with SQL Server, SSIS, SSAS, Excel and Power BI.</text>
+<g transform="translate(32,256)"><rect width="105" height="30" rx="8" fill="#cc2927" fill-opacity=".22" stroke="#cc2927"/><text x="52" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">SQL Server</text></g><g transform="translate(145,256)"><rect width="58" height="30" rx="8" fill="#742774" fill-opacity=".22" stroke="#742774"/><text x="29" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">SSIS</text></g><g transform="translate(211,256)"><rect width="58" height="30" rx="8" fill="#0078d4" fill-opacity=".22" stroke="#0078d4"/><text x="29" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">SSAS</text></g><g transform="translate(276,256)"><rect width="89" height="30" rx="8" fill="#b8920a" fill-opacity=".22" stroke="#b8920a"/><text x="45" y="20" fill="#f1f5f9" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">Power BI</text></g>
+<text x="570" y="294" fill="#94a3b8" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" text-anchor="end">view repo →</text>
+</svg>

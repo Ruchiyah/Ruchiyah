@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="divider">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#14b8a6" stop-opacity="0"/><stop offset=".5" stop-color="#14b8a6"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-20%" y="-200%" width="140%" height="500%"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<line x1="0" y1="12" x2="1200" y2="12" stroke="url(#g)" stroke-width="1.2" opacity=".6"/>
+<g><rect y="10" width="160" height="4" rx="2" fill="#5eead4" filter="url(#glow)"/><rect y="11" width="160" height="2" rx="1" fill="#ccfbf1"/>
+<animateTransform attributeName="transform" type="translate" values="-160 0;1200 0" dur="5s" repeatCount="indefinite"/></g>
+<g fill="#14b8a6"><rect x="296" y="8" width="8" height="8" transform="rotate(45 300 12)"/><rect x="596" y="8" width="8" height="8" transform="rotate(45 600 12)"/><rect x="896" y="8" width="8" height="8" transform="rotate(45 900 12)"/></g>
+</svg>

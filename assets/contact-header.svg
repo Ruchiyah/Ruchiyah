@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Let&#x27;s connect — got an idea, a question or a data / AI project? Say hi.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030712"/><stop offset="1" stop-color="#06201f"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#5eead4"/><stop offset=".35" stop-color="#ffffff"/><stop offset=".65" stop-color="#22c55e"/><stop offset="1" stop-color="#5eead4"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<style>
+  .bob{animation:bob 4.5s ease-in-out infinite}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+  .run{stroke-dasharray:90 2400;animation:run 7s linear infinite}
+  @keyframes run{to{stroke-dashoffset:-2490}}
+  .flow{stroke-dasharray:6 8;animation:flow 1.2s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-14}}
+</style>
+<rect width="1200" height="230" rx="24" fill="url(#bg)"/><rect x=".75" y=".75" width="1198.5" height="228.5" rx="24" fill="none" stroke="#14b8a6" stroke-opacity=".3" stroke-width="1.5"/><path class="flow" d="M760,180 C860,60 960,200 1040,110 S1140,40 1170,70" fill="none" stroke="#5eead4" stroke-opacity=".45" stroke-width="2"/><g><path d="M0,-12 L30,0 L0,12 L6,0 Z" fill="#f8fafc"/><path d="M6,0 L0,12 L10,4 Z" fill="#94a3b8"/><animateMotion dur="6s" repeatCount="indefinite" rotate="auto" path="M760,180 C860,60 960,200 1040,110 S1140,40 1170,70"/></g><text x="48" y="64" fill="#5eead4" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="14" font-weight="700" text-anchor="start" letter-spacing="4">CONTACT.ME</text><text x="46" y="124" fill="url(#shine)" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="900" text-anchor="start" letter-spacing="-1">Let's connect</text><text x="48" y="166" fill="#cbd5e1" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="400" text-anchor="start" >Got an idea, a question or a data / AI project? Say hi — I'd love to talk.</text><circle cx="620" cy="110" r="5" fill="#0a66c2" class="pulse" style="animation-delay:-0.0s"/><circle cx="660" cy="140" r="5" fill="#dd2a7b" class="pulse" style="animation-delay:-0.5s"/><circle cx="700" cy="110" r="5" fill="#25d366" class="pulse" style="animation-delay:-1.0s"/>
+</svg>
